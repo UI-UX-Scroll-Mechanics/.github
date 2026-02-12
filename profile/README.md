@@ -1,4 +1,4 @@
-![flower](https://github.com/user-attachments/assets/356f7fb0-b5f2-4a22-9f41-c23b8cbf3dda)
+![lotus-2](https://github.com/user-attachments/assets/69b0b398-2a36-4fb5-9fbb-3a141a20d965)
 ## 🧭 UI-UX Scroll Mechanics
 Scrolling is one of the most fundamental interactions in frontend development — yet it is often treated as an afterthought. This github organization, is a collection of private repositories that explores:
 1. How scrolling works at the browser level
